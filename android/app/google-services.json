@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842924955477",
+    "project_id": "drive-guard-2e4bb",
+    "storage_bucket": "drive-guard-2e4bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842924955477:android:3a00434bf5f28215f441dc",
+        "android_client_info": {
+          "package_name": "com.example.driveguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6eTa0dlq5KLCb9uKqMbrd8m-itwYBf2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
